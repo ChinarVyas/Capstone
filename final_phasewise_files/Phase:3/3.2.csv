@@ -1,0 +1,441 @@
+State,Years,DISTRICT,MURDER
+"A & N Islands",2001,Andaman,13
+"A & N Islands",2002,Andaman,14
+"A & N Islands",2003,Andaman,16
+"A & N Islands",2004,Andaman,13
+"A & N Islands",2005,Andaman,14
+"A & N Islands",2006,Andaman,3
+"A & N Islands",2007,"A And N Islands",15
+"A & N Islands",2008,Andaman,8
+"A & N Islands",2009,Andaman,15
+"A & N Islands",2010,Andaman,8
+"A & N Islands",2011,Andaman,14
+"A & N Islands",2012,South,8
+"Andhra Pradesh",2001,"Ranga Reddy",214
+"Andhra Pradesh",2002,"Ranga Reddy",214
+"Andhra Pradesh",2003,Guntur,210
+"Andhra Pradesh",2004,Mahaboobnagar,183
+"Andhra Pradesh",2005,Mahaboobnagar,212
+"Andhra Pradesh",2006,Cyberabad,193
+"Andhra Pradesh",2007,Cyberabad,186
+"Andhra Pradesh",2008,Cyberabad,197
+"Andhra Pradesh",2009,Cyberabad,186
+"Andhra Pradesh",2010,Cyberabad,187
+"Andhra Pradesh",2011,Cyberabad,213
+"Andhra Pradesh",2012,Cyberabad,198
+"Arunachal Pradesh",2001,Lohit,16
+"Arunachal Pradesh",2002,Lohit,14
+"Arunachal Pradesh",2003,Lohit,16
+"Arunachal Pradesh",2004,"Subansiri Upper",10
+"Arunachal Pradesh",2004,Lohit,10
+"Arunachal Pradesh",2005,Lohit,14
+"Arunachal Pradesh",2006,"Papum Pare",10
+"Arunachal Pradesh",2007,Lohit,17
+"Arunachal Pradesh",2008,"Papum Pare",11
+"Arunachal Pradesh",2008,Lohit,11
+"Arunachal Pradesh",2009,"Siang West",11
+"Arunachal Pradesh",2010,"Siang West",9
+"Arunachal Pradesh",2011,Lohit,12
+"Arunachal Pradesh",2012,Lohit,11
+Assam,2001,Dibrugarh,110
+Assam,2002,Tinsukia,115
+Assam,2003,Dibrugarh,107
+Assam,2004,Dibrugarh,125
+Assam,2005,Dibrugarh,113
+Assam,2006,Dibrugarh,104
+Assam,2007,Tinsukia,143
+Assam,2008,Tinsukia,114
+Assam,2009,Sonitpur,109
+Assam,2010,Tinsukia,96
+Assam,2011,Tinsukia,98
+Assam,2012,Kokrajhar,110
+Bihar,2001,Patna,434
+Bihar,2002,Patna,472
+Bihar,2003,Patna,484
+Bihar,2004,Patna,542
+Bihar,2005,Patna,436
+Bihar,2006,Patna,338
+Bihar,2007,Patna,317
+Bihar,2008,Patna,341
+Bihar,2009,Patna,314
+Bihar,2010,Patna,304
+Bihar,2011,Patna,248
+Bihar,2012,Patna,356
+Chandigarh,2001,Chandigarh,15
+Chandigarh,2002,Chandigarh,31
+Chandigarh,2003,Chandigarh,21
+Chandigarh,2004,Chandigarh,22
+Chandigarh,2005,Chandigarh,18
+Chandigarh,2006,Chandigarh,12
+Chandigarh,2007,Chandigarh,19
+Chandigarh,2008,Chandigarh,17
+Chandigarh,2009,Chandigarh,22
+Chandigarh,2010,Chandigarh,21
+Chandigarh,2011,Chandigarh,24
+Chandigarh,2012,Chandigarh,21
+Chhattisgarh,2001,Sarguja,105
+Chhattisgarh,2002,Sarguja,101
+Chhattisgarh,2003,Bilaspur,95
+Chhattisgarh,2004,Sarguja,111
+Chhattisgarh,2005,Bilaspur,94
+Chhattisgarh,2006,Bizapur,139
+Chhattisgarh,2007,Bizapur,113
+Chhattisgarh,2008,Bilaspur,112
+Chhattisgarh,2008,Raipur,112
+Chhattisgarh,2009,Raipur,101
+Chhattisgarh,2010,Bilaspur,106
+Chhattisgarh,2011,Bilaspur,112
+Chhattisgarh,2012,Bilaspur,74
+"D & N Haveli",2001,"D And N Haveli",3
+"D & N Haveli",2002,"D And N Haveli",11
+"D & N Haveli",2003,"D And N Haveli",11
+"D & N Haveli",2004,"D And N Haveli",11
+"D & N Haveli",2005,"D And N Haveli",7
+"D & N Haveli",2006,"D And N Haveli",9
+"D & N Haveli",2007,"D And N Haveli",10
+"D & N Haveli",2008,"D And N Haveli",9
+"D & N Haveli",2009,"D And N Haveli",10
+"D & N Haveli",2010,"D And N Haveli",6
+"D & N Haveli",2011,"D And N Haveli",14
+"D & N Haveli",2012,"D And N Haveli",7
+"Daman & Diu",2001,Daman,6
+"Daman & Diu",2002,Daman,7
+"Daman & Diu",2003,Daman,6
+"Daman & Diu",2004,Daman,2
+"Daman & Diu",2005,Daman,4
+"Daman & Diu",2006,Daman,6
+"Daman & Diu",2007,Daman,12
+"Daman & Diu",2008,Daman,2
+"Daman & Diu",2009,Daman,5
+"Daman & Diu",2010,Daman,5
+"Daman & Diu",2011,Daman,6
+"Daman & Diu",2012,Daman,3
+"Delhi Ut",2001,"North West",134
+"Delhi Ut",2002,"North West",135
+"Delhi Ut",2003,"North West",106
+"Delhi Ut",2004,"North West",129
+"Delhi Ut",2005,North-West,128
+"Delhi Ut",2006,North-West,128
+"Delhi Ut",2007,Outer,102
+"Delhi Ut",2008,North-East,92
+"Delhi Ut",2009,North-East,74
+"Delhi Ut",2009,Outer,74
+"Delhi Ut",2010,Outer,98
+"Delhi Ut",2011,Outer,84
+"Delhi Ut",2012,Outer,96
+Goa,2001,"North Goa",22
+Goa,2002,"North Goa",18
+Goa,2003,"North Goa",22
+Goa,2004,"North Goa",23
+Goa,2005,"South Goa",23
+Goa,2006,"North Goa",24
+Goa,2007,"South Goa",18
+Goa,2008,"North Goa",26
+Goa,2009,"North Goa",33
+Goa,2010,"North Goa",25
+Goa,2011,"North Goa",33
+Goa,2012,"North Goa",28
+Gujarat,2001,"Surat Commr.",98
+Gujarat,2002,"Ahmedabad Commr.",222
+Gujarat,2003,"Ahmedabad Commr.",90
+Gujarat,2004,"Ahmedabad Commr.",92
+Gujarat,2005,"Surat Commr.",86
+Gujarat,2006,"Surat Commr.",103
+Gujarat,2007,"Surat Commr.",108
+Gujarat,2008,"Surat Commr.",97
+Gujarat,2009,"Surat Commr.",101
+Gujarat,2010,"Surat Commr.",87
+Gujarat,2011,"Surat Commr.",100
+Gujarat,2012,"Surat Commr.",98
+Haryana,2001,Sonipat,73
+Haryana,2002,Sonipat,82
+Haryana,2003,Gurgaon,62
+Haryana,2003,Sonipat,62
+Haryana,2004,Faridabad,67
+Haryana,2004,Sonipat,67
+Haryana,2005,Faridabad,76
+Haryana,2006,Gurgaon,93
+Haryana,2007,Gurgaon,93
+Haryana,2008,Sonipat,84
+Haryana,2009,Gurgaon,84
+Haryana,2010,Hissar,91
+Haryana,2011,Gurgaon,89
+Haryana,2012,Sonipat,86
+"Himachal Pradesh",2001,Kangra,24
+"Himachal Pradesh",2002,Kangra,28
+"Himachal Pradesh",2003,Kangra,38
+"Himachal Pradesh",2004,Mandi,19
+"Himachal Pradesh",2005,Kangra,21
+"Himachal Pradesh",2006,Kangra,19
+"Himachal Pradesh",2007,Kangra,22
+"Himachal Pradesh",2008,Kangra,19
+"Himachal Pradesh",2008,Mandi,19
+"Himachal Pradesh",2009,Kangra,29
+"Himachal Pradesh",2010,Kangra,27
+"Himachal Pradesh",2011,Kangra,21
+"Himachal Pradesh",2012,Kangra,24
+"Jammu & Kashmir",2001,Baramulla,144
+"Jammu & Kashmir",2002,Baramulla,121
+"Jammu & Kashmir",2003,Poonch,111
+"Jammu & Kashmir",2004,Baramulla,86
+"Jammu & Kashmir",2005,Baramulla,78
+"Jammu & Kashmir",2006,Doda,65
+"Jammu & Kashmir",2007,Baramulla,47
+"Jammu & Kashmir",2008,Jammu,31
+"Jammu & Kashmir",2009,Srinagar,23
+"Jammu & Kashmir",2010,Sopore,30
+"Jammu & Kashmir",2011,Jammu,18
+"Jammu & Kashmir",2012,Jammu,13
+"Jammu & Kashmir",2012,Srinagar,13
+Jharkhand,2001,Ranchi,243
+Jharkhand,2002,Ranchi,270
+Jharkhand,2003,Ranchi,250
+Jharkhand,2004,Ranchi,270
+Jharkhand,2005,Ranchi,239
+Jharkhand,2006,Ranchi,253
+Jharkhand,2007,Ranchi,203
+Jharkhand,2008,Ranchi,209
+Jharkhand,2009,Ranchi,202
+Jharkhand,2010,Ranchi,183
+Jharkhand,2011,Gumla,201
+Jharkhand,2012,Gumla,192
+Karnataka,2001,"Bangalore Commr.",221
+Karnataka,2002,"Bangalore Commr.",201
+Karnataka,2003,"Bangalore Commr.",216
+Karnataka,2004,"Bangalore Commr.",214
+Karnataka,2005,"Bangalore Commr.",242
+Karnataka,2006,"Bangalore Commr.",218
+Karnataka,2007,"Bangalore Commr.",246
+Karnataka,2008,"Bangalore Commr.",253
+Karnataka,2009,"Bangalore Commr.",256
+Karnataka,2010,"Bangalore Commr.",266
+Karnataka,2011,"Bangalore Commr.",232
+Karnataka,2012,"Bangalore Commr.",266
+Kerala,2001,Trivandrum,53
+Kerala,2002,Trivandrum,58
+Kerala,2003,Palakkad,52
+Kerala,2004,Kollam,46
+Kerala,2005,Thrissur,41
+Kerala,2006,Thrissur,44
+Kerala,2006,Palakkad,44
+Kerala,2007,Kollam,43
+Kerala,2008,Thrissur,38
+Kerala,2009,Palakkad,36
+Kerala,2010,Palakkad,42
+Kerala,2010,"Trivandrum Rural",42
+Kerala,2011,Palakkad,41
+Kerala,2012,"Trivandrum Rural",42
+Lakshadweep,2001,Lakshadweep,1
+Lakshadweep,2002,Lakshadweep,0
+Lakshadweep,2003,Lakshadweep,0
+Lakshadweep,2004,Lakshadweep,0
+Lakshadweep,2005,Lakshadweep,1
+Lakshadweep,2006,Lakshadweep,0
+Lakshadweep,2007,Lakshadweep,0
+Lakshadweep,2008,Lakshadweep,1
+Lakshadweep,2009,Lakshadweep,0
+Lakshadweep,2010,Lakshadweep,0
+Lakshadweep,2011,Lakshadweep,0
+Lakshadweep,2012,Lakshadweep,0
+"Madhya Pradesh",2001,Jhabua,124
+"Madhya Pradesh",2002,Jhabua,133
+"Madhya Pradesh",2003,Jhabua,119
+"Madhya Pradesh",2004,Jhabua,139
+"Madhya Pradesh",2005,Jhabua,129
+"Madhya Pradesh",2006,Jhabua,117
+"Madhya Pradesh",2007,Indore,111
+"Madhya Pradesh",2008,Indore,125
+"Madhya Pradesh",2009,Indore,132
+"Madhya Pradesh",2010,Indore,108
+"Madhya Pradesh",2011,Indore,135
+"Madhya Pradesh",2012,Indore,123
+Maharashtra,2001,Mumbai,295
+Maharashtra,2002,Mumbai,252
+Maharashtra,2003,Mumbai,242
+Maharashtra,2004,Mumbai,253
+Maharashtra,2005,Mumbai,212
+Maharashtra,2006,"Mumbai Commr.",239
+Maharashtra,2007,"Mumbai Commr.",230
+Maharashtra,2008,"Mumbai Commr.",210
+Maharashtra,2009,"Mumbai Commr.",217
+Maharashtra,2010,"Mumbai Commr.",228
+Maharashtra,2011,"Mumbai Commr.",203
+Maharashtra,2012,"Mumbai Commr.",215
+Manipur,2001,Imphal(West),44
+Manipur,2002,Imphal(West),32
+Manipur,2003,Imphal(West),28
+Manipur,2004,Thoubal,38
+Manipur,2005,Imphal(West),49
+Manipur,2005,Churachandpur,49
+Manipur,2006,Churachandpur,43
+Manipur,2007,"Imphal West",61
+Manipur,2008,Thoubal,46
+Manipur,2009,"Imphal West",32
+Manipur,2010,"Imphal East",19
+Manipur,2011,"Imphal West",24
+Manipur,2012,Thoubal,16
+Meghalaya,2001,"Khasi Hills East",50
+Meghalaya,2002,"Khasi Hills East",48
+Meghalaya,2003,"Jaintia Hills",52
+Meghalaya,2004,"Khasi Hills East",33
+Meghalaya,2005,"Jaintia Hills",43
+Meghalaya,2006,"Jaintia Hills",51
+Meghalaya,2007,"Jaintia Hills",43
+Meghalaya,2008,"Jaintia Hills",38
+Meghalaya,2009,"Jaintia Hills",40
+Meghalaya,2010,"Jaintia Hills",48
+Meghalaya,2011,"Jaintia Hills",52
+Meghalaya,2012,"Jaintia Hills",44
+Mizoram,2001,Aizawl,12
+Mizoram,2002,Champhai,6
+Mizoram,2002,Serchhip,6
+Mizoram,2003,Aizawl,14
+Mizoram,2004,Aizawl,10
+Mizoram,2005,Aizawl,4
+Mizoram,2005,Champhai,4
+Mizoram,2005,Lunglei,4
+Mizoram,2005,Mamit,4
+Mizoram,2006,Aizawl,7
+Mizoram,2007,Aizawl,18
+Mizoram,2008,Aizawl,12
+Mizoram,2009,Aizawl,14
+Mizoram,2010,Aizawl,23
+Mizoram,2011,Aizawl,10
+Mizoram,2012,Aizawl,12
+Nagaland,2001,Dimapur,36
+Nagaland,2002,Dimapur,32
+Nagaland,2003,Kohima,28
+Nagaland,2004,Dimapur,22
+Nagaland,2005,Dimapur,23
+Nagaland,2006,Kohima,31
+Nagaland,2007,Dimapur,30
+Nagaland,2008,Dimapur,64
+Nagaland,2009,Dimapur,15
+Nagaland,2010,Dimapur,20
+Nagaland,2011,Dimapur,15
+Nagaland,2012,Dimapur,26
+Odisha,2001,Mayurbhanj,74
+Odisha,2002,Sundargarh,87
+Odisha,2003,Sundargarh,83
+Odisha,2004,Mayurbhanj,77
+Odisha,2005,Sundargarh,82
+Odisha,2006,Keonjhar,84
+Odisha,2006,Mayurbhanj,84
+Odisha,2007,Mayurbhanj,98
+Odisha,2008,Keonjhar,91
+Odisha,2009,Keonjhar,109
+Odisha,2010,Mayurbhanj,88
+Odisha,2011,Mayurbhanj,103
+Odisha,2012,Keonjhar,97
+Puducherry,2001,Pondicherry,25
+Puducherry,2002,Pondicherry,29
+Puducherry,2003,Pondicherry,29
+Puducherry,2004,Pondicherry,25
+Puducherry,2005,Pondicherry,19
+Puducherry,2006,Pondicherry,28
+Puducherry,2007,Pondicherry,30
+Puducherry,2008,Puducherry,30
+Puducherry,2009,Puducherry,31
+Puducherry,2010,Puducherry,29
+Puducherry,2011,Puducherry,32
+Puducherry,2012,Puducherry,24
+Punjab,2001,Jalandhar,74
+Punjab,2001,Ludhiana,74
+Punjab,2002,Ludhiana,68
+Punjab,2003,Ludhiana,64
+Punjab,2004,Jalandhar,74
+Punjab,2005,Jalandhar,63
+Punjab,2006,Jalandhar,80
+Punjab,2007,Ludhiana,63
+Punjab,2007,Jalandhar,63
+Punjab,2008,Ludhiana,73
+Punjab,2009,Ludhiana,68
+Punjab,2010,"Cp Ludhiana",90
+Punjab,2011,"Cp Ludhiana",76
+Punjab,2012,"Cp Ludhiana",79
+Rajasthan,2001,Jaipur,91
+Rajasthan,2002,Bharatpur,87
+Rajasthan,2003,Jaipur,92
+Rajasthan,2004,Bharatpur,92
+Rajasthan,2005,Bharatpur,91
+Rajasthan,2006,Bharatpur,75
+Rajasthan,2006,Alwar,75
+Rajasthan,2007,Alwar,89
+Rajasthan,2008,Alwar,101
+Rajasthan,2009,Alwar,103
+Rajasthan,2010,Bharatpur,83
+Rajasthan,2011,Alwar,104
+Rajasthan,2012,Alwar,100
+Sikkim,2001,East,13
+Sikkim,2002,East,6
+Sikkim,2003,East,7
+Sikkim,2004,West,5
+Sikkim,2005,East,5
+Sikkim,2006,East,10
+Sikkim,2007,West,6
+Sikkim,2008,East,5
+Sikkim,2009,East,7
+Sikkim,2010,South,7
+Sikkim,2011,East,8
+Sikkim,2012,East,3
+"Tamil Nadu",2001,Chennai,91
+"Tamil Nadu",2002,Dharmapuri,94
+"Tamil Nadu",2003,Dharmapuri,90
+"Tamil Nadu",2004,Chengai,79
+"Tamil Nadu",2005,Chennai,123
+"Tamil Nadu",2006,Chennai,131
+"Tamil Nadu",2007,Chennai,145
+"Tamil Nadu",2008,Chennai,100
+"Tamil Nadu",2009,Chennai,96
+"Tamil Nadu",2010,Chennai,103
+"Tamil Nadu",2011,Chennai,168
+"Tamil Nadu",2012,Chennai,180
+Tripura,2001,West,125
+Tripura,2002,West,113
+Tripura,2003,West,136
+Tripura,2004,West,97
+Tripura,2005,West,61
+Tripura,2006,West,74
+Tripura,2007,West,65
+Tripura,2008,West,72
+Tripura,2009,West,61
+Tripura,2010,West,83
+Tripura,2011,West,71
+Tripura,2012,West,26
+"Uttar Pradesh",2001,Muzaffarnagar,324
+"Uttar Pradesh",2002,Muzaffarnagar,287
+"Uttar Pradesh",2003,Bareilly,194
+"Uttar Pradesh",2004,Muzaffarnagar,253
+"Uttar Pradesh",2005,Bareilly,224
+"Uttar Pradesh",2006,Muzaffarnagar,230
+"Uttar Pradesh",2007,Muzaffarnagar,213
+"Uttar Pradesh",2008,"Kanpur Nagar",168
+"Uttar Pradesh",2008,Muzaffarnagar,168
+"Uttar Pradesh",2009,Ghaziabad,254
+"Uttar Pradesh",2010,Ghaziabad,216
+"Uttar Pradesh",2011,Meerut,189
+"Uttar Pradesh",2012,Meerut,202
+Uttarakhand,2001,Haridwar,94
+Uttarakhand,2002,Haridwar,75
+Uttarakhand,2003,Haridwar,75
+Uttarakhand,2004,Haridwar,56
+Uttarakhand,2005,Haridwar,65
+Uttarakhand,2006,"Udhamsingh Nagar",74
+Uttarakhand,2007,Haridwar,55
+Uttarakhand,2008,Haridwar,74
+Uttarakhand,2009,Haridwar,67
+Uttarakhand,2010,"Udhamsingh Nagar",55
+Uttarakhand,2011,Haridwar,56
+Uttarakhand,2012,Haridwar,74
+"West Bengal",2001,"24 Parganas North",202
+"West Bengal",2002,"24 Parganas North",204
+"West Bengal",2003,"24 Parganas North",193
+"West Bengal",2004,"24 Parganas North",177
+"West Bengal",2005,"24 Parganas North",168
+"West Bengal",2006,"24 Parganas North",154
+"West Bengal",2007,"24 Parganas North",194
+"West Bengal",2008,"24 Parganas South",239
+"West Bengal",2009,"24 Parganas North",229
+"West Bengal",2010,"Paschim Midnapur",268
+"West Bengal",2011,"24 Parganas South",247
+"West Bengal",2012,"24 Parganas South",224

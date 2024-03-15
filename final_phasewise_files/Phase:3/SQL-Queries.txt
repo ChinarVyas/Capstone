@@ -1,0 +1,73 @@
+######3.1	Insert records from 42_District_wise_crimes_committed_against_women_2001_2012.csv into a table
+select * from crimes_against_women;
+describe crimes_against_women;
+----------------------------------------------------------------------------------------------------------------
+#######3.2	Write SQL query to find the highest number of rapes & Kidnappings that happened in which state, District, and year
+SELECT states, district, year, MAX(rape) AS max_rapes, MAX(kidnapping) AS max_kidnappings
+FROM crimes_against_women
+WHERE district <> 'TOTAL' and district <> 'DELHi UT TOTAL'
+GROUP BY states, district, year
+ORDER BY max_rapes DESC, max_kidnappings DESC
+limit 5;
+-------------------------------------------------------------------------------------------------------------------
+#######3.3	Write SQL query to find All the lowest number of rapes & Kidnappings that happened in which state, District, and year
+SELECT states, district, year, MAX(rape) AS max_rapes, MAX(kidnapping) AS max_kidnappings
+FROM crimes_against_women
+WHERE district <> 'TOTAL' and district <> 'DELHi UT TOTAL'
+GROUP BY states, district, year
+ORDER BY max_rapes, max_kidnappings
+limit 5;
+------------------------------------------------------------------------------------------------------------------------
+##########3.4	Insert records from 02_District_wise_crimes_committed_against_ST_2001_2012.csv into a new table
+use chinar;
+select * from crimes_against_st;
+---------------------------------------------------------------
+#########3.5	Write SQL query to find the highest number of dacoity/robbery in which district.
+SELECT states, district, years, MAX(dacoity) AS max_dacoit, MAX(robbery) AS max_robbery 
+FROM crimes_against_st 
+WHERE district <> 'TOTAL' and district <> 'DELHi UT TOTAL'
+GROUP BY states, district, years
+ORDER BY max_dacoit DESC, max_robbery DESC
+limit 10;
+-----------------------------------------------------------------------------------------------
+##########3.6	Write SQL query to find in which districts(All) the lowest number of murders happened
+SELECT states, district, years, min(murder) as murders
+FROM crimes_against_st 
+WHERE district <> 'TOTAL' and district <> 'DELHi UT TOTAL' and murder > 0 and murder < 2
+GROUP BY states, district, years;
+------------------------------------------------------------------------------------------------
+############3.7	Write SQL query to find the number of murders in ascending order in district and yearwise.
+SELECT district,states, years, min(murder) as murders
+FROM crimes_against_st 
+WHERE district <> 'TOTAL' and district <> 'DELHi UT TOTAL'
+GROUP BY district,states, years
+order by murders, district, years; 
+-----------------------------------------------------------------------------------------------
+##########################3.8.1	Insert records of STATE/UT, DISTRICT, YEAR, MURDER, ATTEMPT TO MURDER, and RAPE columns only from 01_District_wise_crimes_committed_IPC_2001_2012.csv into a new table
+select * from crimes_india;
+----------------------------------------------------------------------------------------------
+###################3.8.2	Write SQL query to find which District in each state/ut has the highest number of murders yearwise. Your output should show STATE/UT, YEAR, DISTRICT, and MURDERS.
+
+ SELECT `State`, `Years`, `DISTRICT`, `MURDER`
+FROM (
+    SELECT `State`, `Years`, `DISTRICT`, `MURDER`,
+           RANK() OVER (PARTITION BY `State`, `Years` ORDER BY `MURDER` DESC) murder_rank
+    FROM `crimes_india`
+) tmp
+WHERE murder_rank = 1;
+
+-----------------------------------
+#####################3.8.3	Store the above data (the result of 3.2) in DataFrame and analyze districts that appear 3 or more than 3 years and print the corresponding state/ut, district, murders, and year in descending order.
+select * from data;
+SELECT State, District, Murder, Years
+FROM data
+WHERE District IN (
+    SELECT District
+    FROM data
+    GROUP BY District
+    HAVING COUNT(District) >= 3
+)
+ORDER BY Years DESC;
+
+3.8.4	Use appropriate graphs to show your data (the result of 3.8.3)
+graph saved in this folder.
