@@ -1,0 +1,22 @@
+Raw data:- PC01_A01 for 2001 and 
+	   A-1_ raw2011 as raw data for 2011 both have area, population gender wise. 
+
+Formated data: 2001 /2011census cleaned.
+
+https://censusindia.gov.in/census.website/data/census-tables
+
+Link for the same. will have to update the details as 
+need to work on Literacy rate for each state.
+
+Link for PDF that has litracy statewise.
+https://mospi.gov.in/sites/default/files/reports_and_publication/statistical_publication/social_statistics/WM16Chapter3.pdf
+
+litracy % 2011 cross verified from 
+https://www.mapsofindia.com/census2011/literacy-rate.html
+
+**************
+****************
+
+to calculate the polulation for each year I have considered a simple formulae of compound annual growth.
+Start Year* (1 + 0.0025) ^ (End Year- Start year).
+where 0.0025 is considered the rate at which the population increases each year.
